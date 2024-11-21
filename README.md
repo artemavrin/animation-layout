@@ -2,6 +2,9 @@
 
 A demonstration application showcasing Layout Animations and Intercepting Routes in Next.js for creating smooth transitions between pages.
 
+![intro](https://github.com/user-attachments/assets/d9959607-c5f8-48ca-bdbe-cc519dbc1a9c)
+
+
 ## Key Features
 
 - **Layout Animations** - smooth transitions between views
