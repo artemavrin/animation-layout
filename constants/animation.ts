@@ -1,0 +1,1 @@
+export const NAVIGATION_DURATION = 300;
